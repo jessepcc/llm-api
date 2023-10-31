@@ -1,0 +1,11 @@
+langchain.readthedocs.io
+env
+__pycache__
+*.env
+*.venv
+
+gpt-interview-gcp-key.json
+DigiCertGlobalRootCA.crt.pem
+
+**/*.mp3
+upload
